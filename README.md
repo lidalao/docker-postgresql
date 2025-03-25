@@ -65,7 +65,7 @@ docker pull sameersbn/postgresql:15-20230628
 Alternatively you can build the image yourself.
 
 ```bash
-docker build -t sameersbn/postgresql github.com/sameersbn/docker-postgresql
+docker build -t sameersbn/postgresql github.com/lidalao/docker-postgresql
 ```
 
 ## Quickstart
